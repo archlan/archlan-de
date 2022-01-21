@@ -3,3 +3,4 @@ Name=ArchLan DE
 Comment=ArchLan desktop environment
 Exec=/usr/local/bin/archlan-de
 Type=Application
+NoDisplay=true

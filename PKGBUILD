@@ -6,13 +6,13 @@
 #    By: Lanhild <archlan@protonmail.com>           +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/01/19 13:10:20 by Lanhild           #+#    #+#              #
-#    Updated: 2022/01/21 14:35:43 by Lanhild          ###   ########.fr        #
+#    Updated: 2022/01/21 15:34:03 by Lanhild          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 pkgname=archlan-de-files
 pkgver=1.0
-pkgrel=2
+pkgrel=3
 pkgdesc="ArchLan desktop environment"
 url="https://github.com/archlan/archlan-de"
 arch=('any')
